@@ -1,0 +1,25 @@
+{
+	"ImportPath": "slack-cleaner",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.0.1-184-g5bdec13",
+			"Rev": "5bdec13b7f814e15f59a846bcbc2f64cd71f7888"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "v0.11.5-12-g10f801e",
+			"Rev": "10f801ebc38b33738c9d17d50860f484a0988ff5"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "a6577fac2d73be281a500b310739095313165611"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "afadfcc7779c1f4db0f6f6438afcb108d9c9c7cd"
+		}
+	]
+}
